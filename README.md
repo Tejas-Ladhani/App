@@ -13,3 +13,6 @@
    
    RESET
   
+ + Output
+ 
+ ![Screen Shot](https://github.com/Tejas-Ladhani/App/blob/CourtCounter/Screenshot_20200919-131939.jpeg)
