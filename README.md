@@ -6,7 +6,10 @@
 + Buttons
   
    +3 Points
+   
    +2 Points
+   
    Free Throw
-   RESET button
+   
+   RESET
   
