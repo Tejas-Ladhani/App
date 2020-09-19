@@ -1,7 +1,7 @@
 # App
 + Counter Count App
 
-   App for countings points for tro teams playing against each other.
+   App for countings points for two teams playing against each other.
    
 + Buttons
   
