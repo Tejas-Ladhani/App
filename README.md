@@ -1,6 +1,6 @@
 # Counter Count App
 
-App for counting points for two different teams playing against each other.
+App for counting points of two different teams playing against each other.
    
 ## Buttons
   
