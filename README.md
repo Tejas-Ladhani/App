@@ -1,18 +1,17 @@
-# App
-+ Counter Count App
+# Counter Count App
 
-   App for countings points for two teams playing against each other.
+App for countings points for two different teams playing against each other.
    
-+ Buttons
+## Buttons
   
-   +3 Points
+   * +3 Points
    
-   +2 Points
+   * +2 Points
    
-   Free Throw
+   * Free Throw
    
-   RESET
+   * RESET
   
- + Output
+ ## Output
  
  ![Screen Shot](https://github.com/Tejas-Ladhani/App/blob/CourtCounter/Screenshot_20200919-131939.jpeg)
